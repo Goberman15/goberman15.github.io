@@ -1,0 +1,102 @@
+questions = [
+	{
+		question: "Which US naval base that Japan attack on 7th of December 1941?",
+		answer: "PEARL HARBOR"
+	},
+	{
+		question: "Who's held the higher command in engine room of a ship?",
+		answer: "CHIEF ENGINEER"
+	},
+	{
+		question: "Which part of the ship used as primary control to steer the ship?",
+		answer: "RUDDER"
+	},
+	{
+		question: "Ship's birthplace. What is it?",
+		answer: "SHIPYARD"
+	},
+	{
+		question: "What kind of ship that has prefix 'MT'?",
+		answer: "TANKER"
+	},
+	{
+		question: "With regards to ship classifications, what did AV stand for?",
+		answer: "SEAPLANE"
+	},
+	{
+		question: "The International Convention for the Safety of Life at Sea, known as?",
+		answer: "SOLAS"
+	},
+	{
+		question: "UN special agency that responsible for measures and improve the safety and security of international shipping and to prevent marine pollution from ships is known as?",
+		answer: "IMO"
+	},
+	{
+		question: "A great battle which become the turning point for allied in the Pacific theater during World War 2. What battle is it?",
+		answer: "MIDWAY"
+	},
+	{
+		question: "This naval officer is Indonesia's national hero. He killed at the Battle of Arafura Sea. Who is he?",
+		answer: "YOS SUDARSO"
+	},
+	{
+		question: "What is the name of propellers that designed to rotate 360deg in the horizontal plane about a vertical axis?",
+		answer: "AZIMUTH"
+	},
+	{
+		question: "Forward end of the ship hull is known as?",
+		answer: "BOW"
+	},
+	{
+		question: "Rear end of the ship hull is known as?",
+		answer: "STERN"
+	},
+	{
+		question: "What do engineer called numbers marked on the hull side, that used to indicating the draft?",
+		answer: "PLIMSOLL"
+	},
+	{
+		question: "What are the rooms in the ship called?",
+		answer: "CABIN"
+	},
+	{
+		question: "What is the ship classification society that registered in Indonesia?",
+		answer: "BKI"
+	},
+	{
+		question: "What is the ship classification society that registered in UK?",
+		answer: "LR"
+	},
+	{
+		question: "What is the ship classification society that registered in US?",
+		answer: "ABS"
+	},
+	{
+		question: "Where in Europe that people used sea power for the first time?",
+		answer: "CRETE"
+	},
+	{
+		question: "What unit that used to meassure velocity of water vessel/ship?",
+		answer: "KNOT"
+	},
+	{
+		question: "What is the standard of measurement used in container transport based on the dimensions of a 20 ft long container?",
+		answer: "TEU"
+	},
+	{
+		question: "The longitudinal attitude of a vessel or the difference between forward and aft drafts, known as?",
+		answer: "TRIM"
+	},
+	{
+		question: "Raised short deck at the stern of the ship is called as?",
+		answer: "POOP DECK"
+	},
+	{
+		question: "Market category of vessels notionally at the dimensional limits for transiting the Panama canal. What is this kind of ship called?",
+		answer: "PANAMAX"
+	},
+	{
+		question: "Large naval vessel capable of carrying small landing craft and amphibious vehicles, dispatched via a floodable stern dock within the hull. What is it?",
+		answer: "LANDING SHIP DOCK"
+	}
+]

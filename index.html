@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Crete+Round|Merriweather+Sans&display=swap" rel="stylesheet">
+	<title>JALESVEVA JAYAMAHE</title>
+</head>
+<body>
+	<header>
+		<h1>JALESVEVA JAYAMAHE</h1>
+	</header>
+
+	<div id="top-text" class="rank hidden">
+		<div id="rank">
+			<p class="top-text">Rank: <span id="current-rank">Cadet</span></p>
+			<p></p>
+		</div>
+		<div id="question-counter">
+			<p class="top-text">Name: <span id="sailor-name"></span></p>
+		</div>
+	</div>
+	<div class="container">
+		<div id="opening">
+			<p id="greeting">Welcome to the Elixir Battlecruiser!</p>
+			<p id="greeting-letter">Sailor Man and Woman! You're about to embark upon a great battle to defense our beloved earth from alien invasion. But, before you boarded the cruiser, you will be tested to determine your rank on the ship. There will be 25 question to test your knowledge about naval history and about the ship it self. The eyes of the world are upon you, the prayers of every people is marching with you. Goodluck and remember, <br> <strong>OUR GLORY IS AT THE SEAS!</strong> </p>
+			<input type="text" name="name" id="enlist-name" placeholder="Your Name Here" required>
+		</div>
+		<div id="trivia" class="trivia hidden">
+			<p class="question">Question: <span id="current-question"></span></p>
+			<div id="question" class="question"></div>
+			<div class="answer">
+				<input type="text" name="answer" id="answer" placeholder="Your Answer" required>
+			</div>
+		</div>
+		<div id="result" class="result hidden">
+			<p id="congrats">GAME OVER!!</p>
+			<p>Sailor, You have answer <span id="final-score"></span> question </p>
+			<p>Your Rank is <span id="final-rank"></span></p>
+		</div>
+		<div class="buttons">
+			<button id="start-btn" class="start-btn btn">START</button>
+			<button id="submit-btn" class="submit-btn btn hidden">SUBMIT ANSWER</button>
+			<button id="restart-btn" class="restart-btn btn hidden">TRY AGAIN</button>
+		</div>
+	</div>
+	<div class="footer">
+		<div id="find-me">
+			<p>Made by Akbar. Find Me Here:</p>
+		</div>
+		<div id="logo">
+			<a href="https://www.instagram.com/goberman/" target="_blank"><img id="Instagram" src="./instagram.png" class="logo"></a>
+			<a href="https://www.linkedin.com/in/akbarramadhan/" target="_blank"><img id="Linkedin" src="./linkedin.png" class="logo"></a>
+			<a href="https://github.com/Goberman15" target="_blank"><img id="Github" src="./github.png" class="logo"></a>
+		</div>
+	</div>
+	<script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+Admiral ==>  25
+Vice Admiral ==> 22-24
+Rear Admiral ==> 19-21
+Captain ==> 16-18
+Commander ==> 13-15
+Liutenant Commander ==> 11-12
+Liutenant ==> 9-10
+Warrant Officer ==> 7-8  
+Petty Officer ==> 5-6
+Seaman ==> 3-4
+Recruit ==> 1-2
+Cadet ==> 0
