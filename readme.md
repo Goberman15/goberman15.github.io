@@ -1,6 +1,10 @@
 # **JALESVEVA JAYAMAHE**
 
-Jalesveva Jayamahe adalah sebuah game berbentuk quiz trivia untuk menguji pengetahuan mu tentang dunia perkapalan dan sejarahnya. Game ini dikemas seolah lah kamu akan seorang pelaut yang akan memasuki sebuah kapal bertipe Battlecruiser yang bernama Elixir. Sebelum masuk ke kapal ini kamu akan lebih dulu dites pengetahuannya melalui 25 soal yang nantinya akan menentukan pangkat mu di atas kapal. Kamu hanya diberi satu nyawa, sehingga satu jawaban salah akan mengakhiri permainan, dan kamu harus mengulang lagi dari awal permainan.
+Jalesveva Jayamahe adalah sebuah game berbentuk quiz trivia untuk menguji pengetahuan pemain tentang dunia perkapalan dan sejarahnya. Game ini dikemas seolah olah pemain adalah seorang pelaut yang akan memasuki sebuah kapal bertipe Battlecruiser yang bernama Elixir. Sebelum masuk ke kapal ini pemain akan lebih dulu dites pengetahuannya melalui 25 soal yang nantinya akan menentukan pangkat mu di atas kapal. Pemain hanya diberi satu nyawa, sehingga satu jawaban salah akan mengakhiri permainan, dan pemain harus mengulang lagi dari awal permainan.
+
+## **Makna Jalasveva Jayamahe**
+
+Jalasveva Jayamahe adalah motto atau seruan dari TNI AL yang jika di terjemahkan artinya adalah, "Di Laut Kita Jaya" (Our Glory Is At The Seas). Jalasveva Jayamahe berasal dari bahasa Sansekerta dan telah digunakan oleh Angkatan Laut kerajaan Majapahit.
 
 ## **Penentuan pangkat dari pemain adalah sebagai berikut:**
 
